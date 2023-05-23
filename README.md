@@ -5,3 +5,4 @@
 #### It also displays the count of likes and comments fetched from the API itself.
 #### It uses API pagination to display infinite list of videos until all the videos have been scrolled through.
 #### Flutter's pull_to_refresh package is used for API Pagination. 
+#### Clone the repository and run the Flutter app in any IDE of your choice like VSCode or Android Studio.
