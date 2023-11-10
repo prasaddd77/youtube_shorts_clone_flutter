@@ -6,3 +6,9 @@
 #### It uses API pagination to display infinite list of videos until all the videos have been scrolled through.
 #### Flutter's pull_to_refresh package is used for API Pagination. 
 #### Clone the repository and run the Flutter app in any IDE of your choice like VSCode or Android Studio.
+
+
+
+
+https://github.com/prasaddd77/youtube_shorts_clone_flutter/assets/99267538/d94fcb73-4c48-4513-8a70-5e44ce877223
+
